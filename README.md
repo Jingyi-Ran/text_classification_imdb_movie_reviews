@@ -1,1 +1,1 @@
-# text_classification_imdb_movie_reviews
+Deep learning (Keras) is used to predict if a comment/review of a movie/show on imdb is generally positive or negative by learning and capturing the keywords in the text. However this model does not work very well (the accuracy is only around 50%). A better model is coming soon!
